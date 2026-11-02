@@ -22,6 +22,8 @@ Xây dựng hệ thống phần mềm quản lý quán nhậu View Sông Quán n
 ## 4. Người thực hiện
 
 - Họ và tên: Đào Hữu Thiện
+- MSSV: 25S1020101
+- GitHub: https://github.com/tdaohuu4-glitch
 - Vai trò: Scrum Master, Developer, Tester.
 
 ## 5. Công nghệ dự kiến
